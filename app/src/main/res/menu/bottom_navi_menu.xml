@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_shouye"
+        android:icon="@drawable/ic_navi_shouye"
+        android:title="首页" />
+
+    <item
+        android:id="@+id/navigation_wenda"
+        android:icon="@drawable/ic_navi_wenda"
+        android:title="问答" />
+
+    <item
+        android:id="@+id/navigation_attention"
+        android:icon="@drawable/ic_navi_sousuo"
+        android:title="关注" />
+
+    <item
+        android:id="@+id/navigation_wode"
+        android:icon="@drawable/ic_navi_wode"
+        android:title="我的" />
+
+</menu>

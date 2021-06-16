@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/option_editInfo"
+        android:title="编辑资料"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/img_btn_edit"/>
+    <item
+        android:id="@+id/option_settings"
+        android:title="设置"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/img_btn_setting"/>
+</menu>

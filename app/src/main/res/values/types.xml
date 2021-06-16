@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    科室-->
+    <string-array name="types_array">
+        <item>肾内科</item>
+        <item>内分泌科</item>
+        <item>心内科</item>
+        <item>呼吸科</item>
+        <item>消化科</item>
+        <item>神经内科</item>
+        <item>妇科</item>
+        <item>儿科</item>
+        <item>五官科</item>
+        <item>血液肿瘤科</item>
+    </string-array>
+</resources>

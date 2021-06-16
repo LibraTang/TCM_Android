@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: liji.library.dev:citypickerview:5.2.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../DevelopTools/Gradle/caches/transforms-2/files-2.1/aaa4a522eb23ff6ee9aa4487d5cce9e9/jetified-citypickerview-5.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../DevelopTools/Gradle/caches/transforms-2/files-2.1/aaa4a522eb23ff6ee9aa4487d5cce9e9/jetified-citypickerview-5.2.2/res" />
+      <root url="file://$PROJECT_DIR$/../../../../DevelopTools/Gradle/caches/transforms-2/files-2.1/aaa4a522eb23ff6ee9aa4487d5cce9e9/jetified-citypickerview-5.2.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../DevelopTools/Gradle/caches/transforms-2/files-2.1/aaa4a522eb23ff6ee9aa4487d5cce9e9/jetified-citypickerview-5.2.2/jars/libs/pinyin4j-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

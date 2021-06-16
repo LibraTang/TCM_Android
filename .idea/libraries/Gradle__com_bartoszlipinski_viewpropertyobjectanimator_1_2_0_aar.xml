@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bartoszlipinski:viewpropertyobjectanimator:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../DevelopTools/Gradle/caches/transforms-2/files-2.1/550f5c7d5e2c6968b6eac18b096dbaba/jetified-viewpropertyobjectanimator-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../DevelopTools/Gradle/caches/transforms-2/files-2.1/550f5c7d5e2c6968b6eac18b096dbaba/jetified-viewpropertyobjectanimator-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../DevelopTools/Gradle/caches/transforms-2/files-2.1/550f5c7d5e2c6968b6eac18b096dbaba/jetified-viewpropertyobjectanimator-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../DevelopTools/Gradle/caches/modules-2/files-2.1/com.bartoszlipinski/viewpropertyobjectanimator/1.2.0/f713606f85938f15f811606d336390b8fbad1e61/viewpropertyobjectanimator-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../DevelopTools/Gradle/caches/modules-2/files-2.1/com.bartoszlipinski/viewpropertyobjectanimator/1.2.0/82e44856a63256bcda0ab276de66d0642143e941/viewpropertyobjectanimator-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

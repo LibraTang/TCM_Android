@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_shouye">
+    <fragment
+        android:id="@+id/navigation_shouye"
+        android:name="com.example.tcm.fragment.fragment_shouye"
+        android:label="首页"
+        tools:layout="@layout/fragment_shouye"/>
+    <fragment
+        android:id="@+id/navigation_wenda"
+        android:name="com.example.tcm.fragment.fragment_wenda"
+        android:label="问答"
+        tools:layout="@layout/fragment_wenda"/>
+    <fragment
+        android:id="@+id/navigation_attention"
+        android:name="com.example.tcm.fragment.fragment_attention"
+        android:label="关注"
+        tools:layout="@layout/fragment_attention"/>
+    <fragment
+        android:id="@+id/navigation_wode"
+        android:name="com.example.tcm.fragment.fragment_wode"
+        android:label="我的"
+        tools:layout="@layout/fragment_wode"/>
+
+
+</navigation>
